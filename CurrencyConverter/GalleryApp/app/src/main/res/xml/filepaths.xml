@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- allows sharing files from external storage -->
+    <external-path name="external_files" path="."/>
+    <!-- allows sharing from DCIM specifically -->
+    <external-path name="dcim" path="DCIM/"/>
+</paths>
